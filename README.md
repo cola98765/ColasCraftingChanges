@@ -23,7 +23,7 @@ Blanket:
 
 
 
-Recoomended mods
+# Recoomended mods
 - Blanket Mod by ds5678
 - Forge Blueprints Mod by ds5678 (*)
 - Cannery Manufacturing by ds5678 (*)
