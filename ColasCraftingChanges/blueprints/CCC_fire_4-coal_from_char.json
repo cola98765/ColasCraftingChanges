@@ -1,0 +1,18 @@
+{
+	"Name": "Coal",
+	"RequiredGear": ["GEAR_Charcoal"],
+	"RequiredGearUnits": [10],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+	"RequiredTool": "",
+	"OptionalTools": [],
+	"RequiredCraftingLocation": "Anywhere",
+	"RequiresLitFire": false,
+	"RequiresLight": false,
+	"CraftedResult": "GEAR_Coal",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 30,
+	"CraftingAudio": "Play_CraftingGeneric",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

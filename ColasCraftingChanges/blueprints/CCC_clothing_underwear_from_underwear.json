@@ -1,0 +1,18 @@
+{
+	"Name": "WoolUnderwear",
+	"RequiredGear": ["GEAR_LongUnderwear"],
+	"RequiredGearUnits": [2],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_LongUnderwearWool",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 120,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

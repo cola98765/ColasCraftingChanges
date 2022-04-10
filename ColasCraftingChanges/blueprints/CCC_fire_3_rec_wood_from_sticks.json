@@ -1,0 +1,18 @@
+{
+	"Name": "ReclaimedWood",
+	"RequiredGear": ["GEAR_stick"],
+	"RequiredGearUnits": [4],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+	"RequiredTool": "",
+	"OptionalTools": [],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_ReclaimedWoodB",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 30,
+	"CraftingAudio": "Play_CraftingGeneric",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

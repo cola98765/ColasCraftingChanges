@@ -1,0 +1,18 @@
+{
+	"Name": "FishermanSweater",
+	"RequiredGear": ["GEAR_WoolSweater"],
+	"RequiredGearUnits": [2],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_FishermanSweater",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 120,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

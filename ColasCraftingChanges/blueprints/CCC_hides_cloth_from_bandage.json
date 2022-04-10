@@ -1,0 +1,18 @@
+{
+	"Name": "Cloth",
+	"RequiredGear": ["GEAR_HeavyBandage"],
+	"RequiredGearUnits": [2],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+	"RequiredTool": "",
+	"OptionalTools": [],
+	"RequiredCraftingLocation": "Anywhere",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_Cloth",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 30,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

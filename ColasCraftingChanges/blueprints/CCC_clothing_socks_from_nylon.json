@@ -1,0 +1,18 @@
+{
+	"Name": "CottonSocks",
+	"RequiredGear": ["GEAR_Nylon"],
+	"RequiredGearUnits": [2],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_CottonSocks",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 45,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

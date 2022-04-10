@@ -1,0 +1,18 @@
+{
+	"Name": "Rope",
+	"RequiredGear": ["GEAR_Nylon"],
+	"RequiredGearUnits": [10],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_Rope",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 240,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

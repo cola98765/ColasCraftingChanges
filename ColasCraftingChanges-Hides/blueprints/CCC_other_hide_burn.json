@@ -1,0 +1,18 @@
+{
+	"Name": "Cloth",
+	"RequiredGear": ["GEAR_MooseHideDried"],
+	"RequiredGearUnits": [1],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+	"RequiredCraftingLocation": "Anywhere",
+	"RequiresLitFire": false,
+	"RequiresLight": false,
+	"CraftedResult": "GEAR_Cloth",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 10,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

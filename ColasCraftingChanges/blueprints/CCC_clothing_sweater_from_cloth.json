@@ -1,0 +1,18 @@
+{
+	"Name": "CottonHoodie",
+	"RequiredGear": ["GEAR_Cloth"],
+	"RequiredGearUnits": [4],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_CottonHoodie",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 90,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

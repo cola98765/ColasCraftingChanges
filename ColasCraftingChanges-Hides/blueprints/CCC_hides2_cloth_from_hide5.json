@@ -1,0 +1,18 @@
+{
+	"Name": "zCCC_15_Cloth",
+	"RequiredGear": ["GEAR_MooseHideDried"],
+	"RequiredGearUnits": [1],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+	"RequiredTool": "GEAR_Knife",
+	"OptionalTools": ["GEAR_KnifeImprovised","GEAR_Hatchet","GEAR_HatchetImprovised"],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_Cloth",
+	"CraftedResultCount": 18,
+	"DurationMinutes": 600,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

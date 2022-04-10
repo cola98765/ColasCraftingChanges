@@ -1,0 +1,18 @@
+{
+	"Name": "zCCC_13_Leather",
+	"RequiredGear": ["GEAR_LeatherHideDried"],
+	"RequiredGearUnits": [2],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+	"RequiredTool": "GEAR_Knife",
+	"OptionalTools": ["GEAR_KnifeImprovised","GEAR_Hatchet","GEAR_HatchetImprovised"],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_LeatherDried",
+	"CraftedResultCount": 3,
+	"DurationMinutes": 360,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

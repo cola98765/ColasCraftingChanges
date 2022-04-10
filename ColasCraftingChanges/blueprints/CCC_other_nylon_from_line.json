@@ -1,0 +1,18 @@
+{
+	"Name": "Nylon",
+	"RequiredGear": ["GEAR_Line"],
+	"RequiredGearUnits": [20],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_Nylon",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 150,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

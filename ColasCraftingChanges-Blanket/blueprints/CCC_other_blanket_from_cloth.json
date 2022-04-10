@@ -1,0 +1,18 @@
+{
+	"Name": "Clothsheet",
+	"RequiredGear": ["GEAR_Cloth"],
+	"RequiredGearUnits": [8],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_Clothsheet",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 1,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

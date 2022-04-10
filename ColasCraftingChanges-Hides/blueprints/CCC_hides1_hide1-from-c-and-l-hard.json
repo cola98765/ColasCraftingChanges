@@ -1,0 +1,18 @@
+{
+	"Name": "zCCC_11_Pelt",
+    "RequiredGear": ["GEAR_Cloth","GEAR_LeatherDried"],
+    "RequiredGearUnits": [2,1],
+    "KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RabbitPelt",
+    "CraftedResultCount": 8,
+    "DurationMinutes": 120,
+    "CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

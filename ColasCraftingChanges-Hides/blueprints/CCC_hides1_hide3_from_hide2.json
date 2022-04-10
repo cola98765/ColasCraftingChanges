@@ -1,0 +1,18 @@
+{
+	"Name": "zCCC_13_Pelt",
+    "RequiredGear": ["GEAR_WolfPeltDried"],
+    "RequiredGearUnits": [3],
+    "KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_LeatherHide",
+    "CraftedResultCount": 2,
+    "DurationMinutes": 360,
+    "CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

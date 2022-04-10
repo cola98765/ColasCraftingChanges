@@ -1,0 +1,18 @@
+{
+	"Name": "ExpeditionParka",
+	"RequiredGear": ["GEAR_WolfSkinCape","GEAR_Nylon","GEAR_ClothSheet"],
+	"RequiredGearUnits": [1,5,1],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_PremiumWinterCoat",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 480,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

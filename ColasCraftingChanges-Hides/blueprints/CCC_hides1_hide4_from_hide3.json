@@ -1,0 +1,18 @@
+{
+	"Name": "zCCC_14_Pelt",
+    "RequiredGear": ["GEAR_LeatherHideDried"],
+    "RequiredGearUnits": [3],
+    "KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_BearHide",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 480,
+    "CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

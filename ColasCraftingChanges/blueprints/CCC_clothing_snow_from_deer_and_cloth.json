@@ -1,0 +1,18 @@
+{
+	"Name": "SnowPants",
+	"RequiredGear": ["GEAR_DeerSkinPants","GEAR_Nylon","GEAR_Cloth"],
+	"RequiredGearUnits": [1,2,3],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+	"RequiredCraftingLocation": "Workbench",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_InsulatedPants",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 360,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

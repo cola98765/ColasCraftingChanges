@@ -1,0 +1,18 @@
+{
+	"Name": "Toque",
+	"RequiredGear": ["GEAR_ImprovisedHat", "GEAR_Cloth"],
+	"RequiredGearUnits": [1, 1],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+	"RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_Toque",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 60,
+	"CraftingAudio": "PLAY_ClothingRepair",
+	"AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
