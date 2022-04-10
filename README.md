@@ -15,7 +15,7 @@ Hides:
 - create synthetic hides using cloth and leather
 - sewing together smaler hides to create bigger ones
 - harvesting hides for cloth OR leather (I could not fugure out how to properly do rarvesting blueprins so only one output)
-- "burning" of moose hides into 1 cloth if for some reason you have too many of them (like you decided that blueprins should be harder)
+- "burning" of moose hides into 1 cloth if for some reason you have too many of them (like you decided that related blueprints should be harder)
 
 Blanket:
 - if you don't have the BlanketMod use this to craft GEAR_ClothSheet (note it will not provide any warmth bonus)
