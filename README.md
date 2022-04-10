@@ -9,7 +9,7 @@ Base:
 - making reclaimed wood form sticks (keeping the burn time the same)
 - pretending a heap of charcoal is a piece of coal
 - crafting firestriker
-- reparing whetstone
+- repearing whetstone
 
 Hides:
 - create synthetic hides using cloth and leather
@@ -23,7 +23,7 @@ Blanket:
 
 
 
-# Recoomended mods
+# Recommended mods
 - Blanket Mod by ds5678
 - Forge Blueprints Mod by ds5678 (*)
 - Cannery Manufacturing by ds5678 (*)
