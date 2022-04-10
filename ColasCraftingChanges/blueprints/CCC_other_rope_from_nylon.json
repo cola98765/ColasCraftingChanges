@@ -1,7 +1,7 @@
 {
 	"Name": "Rope",
 	"RequiredGear": ["GEAR_Nylon"],
-	"RequiredGearUnits": [10],
+	"RequiredGearUnits": [15],
 	"KeroseneLitersRequired": 0,
 	"GunpowderKGRequired": 0,
     "RequiredTool": "",
