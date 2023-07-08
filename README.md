@@ -1,8 +1,12 @@
+
 # ColasCraftingChanges
  The Long Dark blueprint pack
  requires ModComponent
 
+# This mod is for older version (2.01 z_perilousconstraint) it will not work on current version
+
 the mod consists of 3 parts
+
 Base:
 - crafting non-hide clothing for most clothing slots
 - making tinder back into sticks
